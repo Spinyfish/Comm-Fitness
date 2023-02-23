@@ -10,7 +10,7 @@ Obese = >30
 
 ## Source: https://www.nhlbi.nih.gov/health/educational/lose_wt/BMI/bmicalc.htm
 
-## Average: 20.7
+## Average: 20.71
 
 ## Winners!
 
@@ -37,6 +37,8 @@ Creida: 22.9
 G8LOL: 21.4 
 
 Louis: 21.0
+
+Flashy: 21.0
 
 74: 20.2
 
