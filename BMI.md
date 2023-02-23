@@ -38,6 +38,8 @@ Haiku: 19.6
 
 Kay: 19.5
 
+Doope: 19.2
+
 DAVIDNE: 18.6
 
 DistastefulBannock: 18.0
