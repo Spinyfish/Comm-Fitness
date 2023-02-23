@@ -14,7 +14,11 @@ Obese = >30
 
 ## Winners!
 
-### 1). Rythem: Off the charts (35)
+### 1). Rythem: Off the charts (35.0)
+
+Confirmed by rythem and this picture of his stomach
+
+![image](https://user-images.githubusercontent.com/93102482/220803094-49b1c9f2-a57b-4405-aa10-e45821bc4eaf.png)
 
 ### 2). Atlas: 27
 
