@@ -48,6 +48,8 @@ Kay: 19.5
 
 Doope: 19.2
 
+Internal: 18.8
+
 DAVIDNE: 18.6
 
 Trashbox: 18.6
