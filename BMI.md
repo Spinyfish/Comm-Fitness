@@ -10,7 +10,7 @@ Obese = >30
 
 ## Source: https://www.nhlbi.nih.gov/health/educational/lose_wt/BMI/bmicalc.htm
 
-## Average: 20.71
+## Average: 20.86
 
 ## Winners!
 
@@ -24,7 +24,9 @@ Confirmed by rythem and this picture of his stomach
 
 ### 3). Electrum: 25.5
 
-Honorable mention! Brownie: 24.3
+Honorable mention! Eradicate: 24.5
+
+Brownie: 24.3
 
 Ryuzaki: 24.0
 
