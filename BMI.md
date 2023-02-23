@@ -19,7 +19,7 @@ Obese = >30
 
 Honorable mention! Brownie: 24.3
 
-G8LOL:21.4 
+G8LOL: 21.4 
 
 Louis: 21.0
 
