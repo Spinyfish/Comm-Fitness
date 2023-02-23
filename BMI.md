@@ -10,7 +10,7 @@ Obese = >30
 
 ## Source: https://www.nhlbi.nih.gov/health/educational/lose_wt/BMI/bmicalc.htm
 
-## Average: 20.8
+## Average: 20.7
 
 ## Winners!
 
@@ -49,6 +49,8 @@ Kay: 19.5
 Doope: 19.2
 
 DAVIDNE: 18.6
+
+Trashbox: 18.6
 
 DistastefulBannock: 18.0
 
