@@ -26,6 +26,10 @@ Confirmed by rythem and this picture of his stomach
 
 Honorable mention! Brownie: 24.3
 
+Eternadox: 24.0
+
+Intentratted: 23.0
+
 Creida: 22.9
 
 G8LOL: 21.4 
