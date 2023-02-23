@@ -26,6 +26,8 @@ Confirmed by rythem and this picture of his stomach
 
 Honorable mention! Brownie: 24.3
 
+Creida: 22.9
+
 G8LOL: 21.4 
 
 Louis: 21.0
