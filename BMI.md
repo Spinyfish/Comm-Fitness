@@ -26,6 +26,8 @@ Confirmed by rythem and this picture of his stomach
 
 Honorable mention! Brownie: 24.3
 
+Ryuzaki: 24.0
+
 Eternadox: 24.0
 
 Intentratted: 23.0
