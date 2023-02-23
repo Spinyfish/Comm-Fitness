@@ -14,9 +14,9 @@ Obese = >30
 
 ## Winners!
 
-### 1). Rythem: Off the charts (35.0)
+### 1). Retaliate: Off the charts (35.0)
 
-Confirmed by rythem and this picture of his stomach
+Confirmed by Retaliate and this picture of his stomach
 
 ![image](https://user-images.githubusercontent.com/93102482/220803094-49b1c9f2-a57b-4405-aa10-e45821bc4eaf.png)
 
@@ -50,7 +50,7 @@ Cade: 19.7
 
 Haiku: 19.6
 
-Kay: 19.5
+Mediate: 19.5
 
 Doope: 19.2
 
