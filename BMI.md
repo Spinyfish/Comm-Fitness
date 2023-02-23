@@ -10,7 +10,7 @@ Obese = >30
 
 ## Source: https://www.nhlbi.nih.gov/health/educational/lose_wt/BMI/bmicalc.htm
 
-## Average: 24.1! Just barely not overweight! Hard carried by Quick
+## Average: 20.8
 
 ## Winners!
 
