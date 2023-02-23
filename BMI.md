@@ -46,6 +46,8 @@ Tear: 17.2
 
 Z-ERO: 17.0
 
+Bretthax: 16.6
+
 Spinyfish: 16.0
 
 quick: 13.1
