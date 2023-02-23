@@ -20,13 +20,23 @@ Obese = >30
 Honorable mention! Brownie: 24.3
 
 G8LOL:21.4 
+
 Louis: 21.0
+
 74: 20.2
+
 Haiku: 19.6
+
 Kay: 19.5
+
 DAVIDNE: 18.6
+
 DistastefulBannock: 18.0
+
 Tear: 17.2
+
 Z-ERO: 17.0
+
 Spinyfish: 16.0
+
 quick: 13.1
