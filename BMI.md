@@ -1,8 +1,11 @@
 # BMI
 
 Underweight = <18.5
+
 Normal = 18-5-24.9
+
 Overweight = 25-29.9
+
 Obese = >30
 
 ## Source: https://www.nhlbi.nih.gov/health/educational/lose_wt/BMI/bmicalc.htm
