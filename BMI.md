@@ -10,7 +10,7 @@ Obese = >30
 
 ## Source: https://www.nhlbi.nih.gov/health/educational/lose_wt/BMI/bmicalc.htm
 
-## Average: 20.86
+## Average: 20.84
 
 ## Winners!
 
@@ -51,6 +51,8 @@ Cade: 19.7
 Haiku: 19.6
 
 Mediate: 19.5
+
+NoSkillPureAndy: 19.2
 
 Doope: 19.2
 
