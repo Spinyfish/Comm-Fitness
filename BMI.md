@@ -10,15 +10,26 @@ Obese = >30
 
 ## Source: https://www.nhlbi.nih.gov/health/educational/lose_wt/BMI/bmicalc.htm
 
-## Standard Deviation: 4.09
-## Variance: 16.71
-## Skewness: 0.56
-## Kurtosis: 4.32
-## Min: 13.1 (quick)
-## Max: 35.0 (Retaliate)
-## Mode: 24.0
-## Median: 20.2
-## Mean: 20.97
+## Statistics
+
+Standard Deviation: 4.09
+
+Variance: 16.71
+
+Skewness: 0.56
+
+Kurtosis: 4.32
+
+Min: 13.1 (quick)
+
+Max: 35.0 (Retaliate)
+
+Mode: 24.0
+
+Median: 20.2
+
+Mean: 20.97
+
 
 ## Winners!
 
