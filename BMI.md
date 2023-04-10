@@ -12,13 +12,13 @@ Obese = >30
 
 ## Statistics
 
-Standard Deviation: 4.09
+Standard Deviation: 4.02
 
-Variance: 16.71
+Variance: 16.19
 
-Skewness: 0.56
+Skewness: 0.60
 
-Kurtosis: 4.32
+Kurtosis: 4.42
 
 Min: 13.1 (quick)
 
@@ -28,7 +28,7 @@ Mode: 24.0
 
 Median: 20.2
 
-Mean: 20.97
+Mean: 21.01
 
 
 ## Winners!
@@ -54,6 +54,8 @@ Eternadox: 24.0
 Intentratted: 23.0
 
 Creida: 22.9
+
+Pengu: 22.2
 
 G8LOL: 21.4 
 
