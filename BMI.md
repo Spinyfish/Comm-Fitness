@@ -42,6 +42,8 @@ Louis: 21.0
 
 Flashy: 21.0
 
+Sample: 20.7
+
 Zoid: 20.6
 
 74: 20.2
