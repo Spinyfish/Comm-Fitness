@@ -54,6 +54,8 @@ Haiku: 19.6
 
 Mediate: 19.5
 
+Segations: 19.3
+
 NoSkillPureAndy: 19.2
 
 Doope: 19.2
