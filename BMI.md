@@ -12,13 +12,13 @@ Obese = >30
 
 ## Statistics
 
-Standard Deviation: 4.02
+Standard Deviation: 3.96
 
-Variance: 16.19
+Variance: 15.66
 
-Skewness: 0.60
+Skewness: 0.33
 
-Kurtosis: 4.42
+Kurtosis: 4.59
 
 Min: 13.1 (quick)
 
@@ -26,9 +26,9 @@ Max: 35.0 (Retaliate)
 
 Mode: 24.0
 
-Median: 20.2
+Median: 20.6
 
-Mean: 21.01
+Mean: 21.03
 
 
 ## Winners!
@@ -56,6 +56,8 @@ Intentratted: 23.0
 Creida: 22.9
 
 Pengu: 22.2
+
+Chazed: 21.6
 
 G8LOL: 21.4 
 
@@ -114,12 +116,4 @@ quick: 13.1
 ## Raybo
 
 ![image](https://user-images.githubusercontent.com/93102482/220805582-e6e36549-cabf-4a47-aa53-5a170eee315c.png)
-
-## Chazed / Phase
-
-![image](https://user-images.githubusercontent.com/93102482/221266729-4c4e84cb-518e-4697-99e9-f9b63f108331.png)
-
-Reason for fold probably
-
-![image](https://user-images.githubusercontent.com/93102482/221266809-629a3fae-2d56-4d42-b442-5a3987314c30.png)
 
