@@ -12,13 +12,13 @@ Obese = >30
 
 ## Statistics
 
-Standard Deviation: 3.96
+Standard Deviation: 3.92
 
-Variance: 15.66
+Variance: 15.39
 
-Skewness: 0.33
+Skewness: 0.58
 
-Kurtosis: 4.59
+Kurtosis: 4.71
 
 Min: 13.1 (quick)
 
@@ -26,9 +26,9 @@ Max: 35.0 (Retaliate)
 
 Mode: 24.0
 
-Median: 20.6
+Median: 20.2
 
-Mean: 21.03
+Mean: 20.96
 
 
 ## Winners!
@@ -78,6 +78,8 @@ Haiku: 19.6
 Mediate: 19.5
 
 Segations: 19.3
+
+Haxor: 19.3
 
 NoSkillPureAndy: 19.2
 
