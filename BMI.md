@@ -97,7 +97,7 @@ Z-ERO: 17.0
 
 Bretthax: 16.6
 
-Spinyfish: 15.6
+Spinyfish: 15.2
 
 quick: 13.1
 
