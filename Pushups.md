@@ -23,6 +23,6 @@ Mean: 29 (28.5)
 
 ## Best
 
-### Spinyfish: 32
+### #1 Spinyfish: 32
 
-### Pengu: 25
+### #2 Pengu: 25
