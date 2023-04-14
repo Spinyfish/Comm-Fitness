@@ -4,26 +4,28 @@
 
 ## Statistics
 
-Standard Deviation: 4.71
+Standard Deviation: 8.93
 
-Variance: 22.22
+Variance: 79.69
 
-Skewness: -2.12
+Skewness: 0.42
 
-Kurtosis: Not Enough Samples
+Kurtosis: 13.67
 
 Min: 64
 
-Max: 74
+Max: 89
 
 Mode: 74
 
 Median: 74
 
-Mean: 70.67
+Mean: 75.25
 
 # Best
 
-### #1 Spinyfish / Auth: 74
+### #1 Pengu: 89
 
-### #2 Eviate: 64
+### #2 Spinyfish / Auth: 74
+
+### #3 Eviate: 64
