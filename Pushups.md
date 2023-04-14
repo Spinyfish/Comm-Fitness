@@ -2,27 +2,29 @@
 
 ## Statistics
 
-Standard Deviation: 3.5
+Standard Deviation: 10.53
 
-Variance: 12.25
+Variance: 110.89
 
-Skewness: -3.0
+Skewness: 1.05
 
 Kurtosis: Not Enough Samples
 
 Min: 25 (Pengu)
 
-Max: 32 (Spinyfish)
+Max: 50 (Eviate)
 
-Mode: 32
+Mode: 50
 
 Median: 32
 
-Mean: 29 (28.5)
+Mean: 36 (35.6)
 
 
 ## Best
 
-### #1 Spinyfish: 32
+### #1 Eviate: 50
 
-### #2 Pengu: 25
+### #2 Spinyfish: 32
+
+### #3 Pengu: 25
