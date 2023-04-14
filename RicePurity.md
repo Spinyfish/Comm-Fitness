@@ -4,13 +4,13 @@
 
 ## Statistics
 
-Standard Deviation: 8.93
+Standard Deviation: 8.01
 
-Variance: 79.69
+Variance: 64.24
 
-Skewness: 0.42
+Skewness: 0.60
 
-Kurtosis: 13.67
+Kurtosis: 7.26
 
 Min: 64
 
@@ -20,12 +20,14 @@ Mode: 74
 
 Median: 74
 
-Mean: 75.25
+Mean: 75.6
 
 # Best
 
 ### #1 Pengu: 89
 
+### #3 Brett: 77
+
 ### #2 Spinyfish / Auth: 74
 
-### #3 Eviate: 64
+Eviate: 64
