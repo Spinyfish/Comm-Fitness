@@ -85,6 +85,8 @@ NoSkillPureAndy: 19.2
 
 Doope: 19.2
 
+Napster: 19.2
+
 Internal: 18.8
 
 DAVIDNE: 18.6

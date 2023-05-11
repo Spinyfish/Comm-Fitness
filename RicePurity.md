@@ -30,4 +30,6 @@ Mean: 75.6
 
 ### #2 Spinyfish / Auth: 74
 
+Napster: 71
+
 Eviate: 64
