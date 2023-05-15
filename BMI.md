@@ -57,6 +57,8 @@ Creida: 22.9
 
 Pengu: 22.2
 
+Sogg: 21.8
+
 Chazed: 21.6
 
 G8LOL: 21.4 
