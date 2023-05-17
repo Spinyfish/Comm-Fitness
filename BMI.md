@@ -95,6 +95,8 @@ DAVIDNE: 18.6
 
 Trashbox: 18.6
 
+Nyoxyy: 18.6
+
 DistastefulBannock: 18.0
 
 Tear: 17.2
