@@ -71,6 +71,8 @@ Sample: 20.7
 
 Zoid: 20.6
 
+Divine: 20.4
+
 74: 20.2
 
 Cade: 19.7
